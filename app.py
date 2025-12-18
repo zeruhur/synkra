@@ -151,12 +151,13 @@ if 'quiz_mode' not in st.session_state:
 
 def get_glyph_card(glyph, context=""):
     """
-    Renderizza la card usando le classi CSS aggiornate.
+    Renderizza la card.
+    FIX: Reintrodotta la descrizione (desc) e gestione dell'ombra.
     """
     filename = f"{glyph['nome'].upper()}.svg"
     file_path = os.path.join("assets", "glyphs", filename)
     
-    # 1. Gestione Immagine (SVG o Fallback)
+    # 1. Gestione Immagine
     if os.path.exists(file_path):
         try:
             with open(file_path, "rb") as f:
@@ -165,13 +166,16 @@ def get_glyph_card(glyph, context=""):
         except:
             img_html = "<span style='color:red'>Errore SVG</span>"
     else:
-        # Fallback testuale
         img_html = f"<div style='font-size:2em; font-family:monospace;'>{glyph['visual'][:1]}</div>"
 
-    # 2. Costruzione HTML
-    ombra_html = f'<div style="font-size:0.75em; border-top:1px solid #eee; padding-top:8px; margin-top:8px; color:#666;">Ombra: {glyph["shadow"]}</div>' if context == "full" else ""
-    
-    # Nota: glyph-box ora ha max-width nel CSS per evitare l'effetto "enorme"
+    # 2. Gestione Contenuti Opzionali (Ombra)
+    # Se siamo in Archivio o Focus (context='full'), mostriamo l'ombra.
+    ombra_html = ""
+    if context == "full":
+        ombra_html = f'<div style="font-size:0.75em; border-top:1px solid #eee; padding-top:8px; margin-top:8px; color:#666; font-style:italic;">Ombra: {glyph["shadow"]}</div>'
+
+    # 3. Costruzione HTML
+    # REINSERITO {glyph['desc']} che era andato perso
     html = f"""
     <div class="glyph-box">
         <div class="glyph-cat">{glyph['cat']}</div>
@@ -179,7 +183,8 @@ def get_glyph_card(glyph, context=""):
             {img_html}
         </div>
         <div class="glyph-name">{glyph['nome']}</div>
-        <div style="font-size: 0.85em; line-height: 1.4;">{glyph['concetto']}</div>
+        <div style="font-weight: bold; font-size: 0.9em; margin-bottom: 6px;">{glyph['concetto']}</div>
+        <div style="font-size: 0.8em; line-height: 1.3; color: #333; margin-bottom: 5px;">{glyph['desc']}</div>
         {ombra_html}
     </div>
     """
@@ -257,7 +262,8 @@ elif menu == "Archivio":
     
     for i, glyph in enumerate(filtered_glyphs):
         with cols[i % columns_num]:
-            get_glyph_card(glyph)
+            # FIX: Passiamo context="full" per mostrare anche l'Ombra
+            get_glyph_card(glyph, context="full")
 
 # --- ORACOLO ---
 elif menu == "Oracolo":
