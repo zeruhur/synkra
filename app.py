@@ -17,87 +17,123 @@ st.set_page_config(
 )
 
 # -----------------------------------------------------------------------------
-# 2. CSS MINIMALE (Solo per layout e visibilità SVG)
+# 2. CSS AGGIORNATO (STILE SYNKRA + BOX QUADRATI + HOME)
 # -----------------------------------------------------------------------------
 st.markdown("""
 <style>
-    /* Stile "Card" pulito che si adatta al tema (Chiaro/Scuro) */
+    /* 1. Stile Base Card */
     .glyph-box {
-        border: 1px solid rgba(128, 128, 128, 0.2);
-        border-radius: 10px;
-        padding: 20px;
-        margin-bottom: 20px;
+        border: 1px solid rgba(0,0,0,0.1);
+        border-radius: 0px; 
+        padding: 15px;
         text-align: center;
-        box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        background-color: transparent;
         transition: transform 0.2s;
+        height: 100%;
+        
+        /* FIX ORACLE: Limita la larghezza massima della card e la centra */
+        max-width: 320px; 
+        margin-left: auto;
+        margin-right: auto;
     }
     .glyph-box:hover {
-        transform: translateY(-5px);
-    }
-    
-    .glyph-name {
-        font-size: 1.5em;
-        font-weight: bold;
-        margin: 10px 0;
-        text-transform: uppercase;
-        letter-spacing: 1px;
-    }
-    
-    .glyph-cat {
-        font-size: 0.8em;
-        text-transform: uppercase;
-        letter-spacing: 2px;
-        opacity: 0.7;
+        transform: translateY(-3px);
+        border-color: #000;
     }
 
-    /* IMPORTANTE: Sfondo bianco dietro l'immagine.
-       Serve perché i tuoi SVG sono neri. In Dark Mode non si vedrebbero.
-       Questo garantisce visibilità sempre.
-    */
+    /* 2. IL QUADRATO VIRTUALE */
     .glyph-img-container {
-        background-color: white;
-        border-radius: 8px;
-        padding: 15px;
-        display: inline-block;
-        margin: 15px 0;
+        width: 100%;             
+        aspect-ratio: 1 / 1;     /* Forza proporzione quadrata */
+        background-color: #FFFFFF;
+        border: 1px solid #eee;
+        display: flex;           
+        justify-content: center; 
+        align-items: center;     
+        margin-bottom: 15px;
+        overflow: hidden;        
     }
     
+    /* 3. L'Immagine dentro il quadrato */
     .glyph-img {
-        width: 120px;
+        max-width: 65%;          
+        max-height: 65%;         
+        width: auto;
         height: auto;
-        display: block;
+        object-fit: contain;     
+    }
+
+    /* Tipografia */
+    .glyph-name {
+        font-family: 'Space Mono', monospace;
+        font-size: 1.1em;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin-bottom: 5px;
+        letter-spacing: -1px;
+    }
+    .glyph-cat {
+        font-size: 0.7em;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        color: #666;
+        margin-bottom: 5px;
+    }
+    
+    /* Stile Home Page */
+    .hero-text {
+        font-size: 1.2em;
+        line-height: 1.6;
+        color: #333;
+        margin-bottom: 30px;
+        border-left: 3px solid #000;
+        padding-left: 20px;
+    }
+    .dimension-box {
+        border: 1px solid #000;
+        padding: 15px;
+        text-align: center;
+        margin-bottom: 10px;
+        text-transform: uppercase;
+        font-weight: bold;
+        font-size: 0.9em;
     }
 </style>
 """, unsafe_allow_html=True)
 
 # -----------------------------------------------------------------------------
-# 3. DATABASE (DATI INVARIATI)
+# 3. DATABASE (DATI)
 # -----------------------------------------------------------------------------
 GLYPHS = [
+    # TRASFORMAZIONE
     {"id": 1, "nome": "KEMRA", "concetto": "Seme", "cat": "TRASFORMAZIONE", "visual": "Punto al centro di cerchio aperto", "desc": "Potenziale latente, inizio non ancora manifestato, promessa.", "shadow": "Sterilità, incapacità di iniziare."},
     {"id": 2, "nome": "SKIRN", "concetto": "Frattura", "cat": "TRASFORMAZIONE", "visual": "Linea verticale spezzata", "desc": "Rottura necessaria, crisi che apre nuove possibilità.", "shadow": "Distruzione fine a se stessa."},
     {"id": 3, "nome": "LUTHEN", "concetto": "Crisalide", "cat": "TRASFORMAZIONE", "visual": "Ovale chiuso con linea ondulata", "desc": "Processo interno invisibile, transizione protetta.", "shadow": "Isolamento, stagnazione."},
     {"id": 4, "nome": "VRAEL", "concetto": "Emersione", "cat": "TRASFORMAZIONE", "visual": "Triangolo che rompe un cerchio", "desc": "Manifestazione, nascita di nuova forma.", "shadow": "Esposizione prematura, arroganza."},
     {"id": 5, "nome": "ASKOR", "concetto": "Cenere", "cat": "TRASFORMAZIONE", "visual": "Quadrato frammentato", "desc": "Ciclo completato, fine che nutre l'inizio.", "shadow": "Attaccamento al passato, lutto non risolto."},
     
+    # RELAZIONE
     {"id": 6, "nome": "LIMYR", "concetto": "Soglia", "cat": "RELAZIONE", "visual": "Linee verticali con gap", "desc": "Confine tra sé e altro, spazio liminale.", "shadow": "Muri invalicabili o assenza di confini."},
     {"id": 7, "nome": "MIREN", "concetto": "Specchio", "cat": "RELAZIONE", "visual": "Triangoli opposti", "desc": "Riconoscimento reciproco, proiezione.", "shadow": "Narcisismo, incapacità di vedere l'altro."},
     {"id": 8, "nome": "THEKNA", "concetto": "Nodo", "cat": "RELAZIONE", "visual": "Due cerchi sovrapposti", "desc": "Legame complesso, intreccio che unisce o intrappola.", "shadow": "Dipendenza, soffocamento."},
     {"id": 9, "nome": "SONAL", "concetto": "Risonanza", "cat": "RELAZIONE", "visual": "Cerchi concentrici disallineati", "desc": "Armonia spontanea, sincronicità relazionale.", "shadow": "Eco vuoto, conformismo."},
     {"id": 10, "nome": "VORDEN", "concetto": "Abisso", "cat": "RELAZIONE", "visual": "Linee divergenti", "desc": "Distanza incolmabile, separazione radicale.", "shadow": "Abbandono, alienazione totale."},
 
+    # MOVIMENTO
     {"id": 11, "nome": "RADHEN", "concetto": "Radice", "cat": "MOVIMENTO", "visual": "Linee verticali discendenti", "desc": "Ancoraggio, stabilità profonda.", "shadow": "Rigidità, incapacità di adattarsi."},
     {"id": 12, "nome": "FLUEN", "concetto": "Corrente", "cat": "MOVIMENTO", "visual": "Linea sinusoidale", "desc": "Flusso naturale, adattamento dinamico.", "shadow": "Passività, mancanza di direzione."},
     {"id": 13, "nome": "SPIREK", "concetto": "Vortice", "cat": "MOVIMENTO", "visual": "Spirale logaritmica", "desc": "Movimento ciclico intenso, essere trascinati.", "shadow": "Ossessione, perdita di controllo."},
     {"id": 14, "nome": "VEKTOR", "concetto": "Sentiero", "cat": "MOVIMENTO", "visual": "Linea retta con freccia", "desc": "Direzione deliberata, progressione consapevole.", "shadow": "Visione a tunnel, fanatismo."},
     {"id": 15, "nome": "KRESH", "concetto": "Salto", "cat": "MOVIMENTO", "visual": "Linea spezzata acuta", "desc": "Discontinuità improvvisa, rischio.", "shadow": "Impulsività sconsiderata, caduta."},
 
+    # CONOSCENZA
     {"id": 16, "nome": "VELUM", "concetto": "Velo", "cat": "CONOSCENZA", "visual": "Triangolo parzialmente coperto", "desc": "Ciò che nasconde e protegge, mistero necessario.", "shadow": "Inganno, segreti tossici."},
     {"id": 17, "nome": "KLAVEN", "concetto": "Chiave", "cat": "CONOSCENZA", "visual": "Cerchio con linea uscente", "desc": "Comprensione che sblocca, insight risolutivo.", "shadow": "Razionalizzazione eccessiva."},
     {"id": 18, "nome": "MEZEN", "concetto": "Labirinto", "cat": "CONOSCENZA", "visual": "Quadrato labirintico", "desc": "Complessità disorientante, ricerca tortuosa.", "shadow": "Confusione mentale, smarrimento."},
     {"id": 19, "nome": "OKULAR", "concetto": "Testimone", "cat": "CONOSCENZA", "visual": "Cerchio con punto", "desc": "Osservazione neutra, presenza consapevole.", "shadow": "Distacco freddo, voyeurismo."},
     {"id": 20, "nome": "RESON", "concetto": "Echo", "cat": "CONOSCENZA", "visual": "Cerchi concentrici espansivi", "desc": "Conoscenza indiretta, riflesso di verità.", "shadow": "Distorsione dell'informazione, pettegolezzo."},
 
+    # INTEGRAZIONE
     {"id": 21, "nome": "SHARDEN", "concetto": "Frammento", "cat": "INTEGRAZIONE", "visual": "Triangolo con vertice separato", "desc": "Parte separata dal tutto, incompletezza.", "shadow": "Dissociazione, sentirsi spezzati."},
     {"id": 22, "nome": "NEXAL", "concetto": "Fulcro", "cat": "INTEGRAZIONE", "visual": "Croce bilanciata", "desc": "Punto di equilibrio dinamico.", "shadow": "Paralisi decisionale, stallo."},
     {"id": 23, "nome": "FLODEN", "concetto": "Trabocco", "cat": "INTEGRAZIONE", "visual": "Cerchio che straripa", "desc": "Eccesso che rompe contenimento.", "shadow": "Sopraffazione emotiva, invasione."},
@@ -115,69 +151,112 @@ if 'quiz_mode' not in st.session_state:
 
 def get_glyph_card(glyph, context=""):
     """
-    Versione corretta: HTML generato su singola riga per evitare 
-    che Markdown lo interpreti come "blocco di codice" a causa dell'indentazione.
+    Renderizza la card usando le classi CSS aggiornate.
     """
     filename = f"{glyph['nome'].upper()}.svg"
     file_path = os.path.join("assets", "glyphs", filename)
     
-    html_visual = ""
-    
-    # Gestione Immagine
+    # 1. Gestione Immagine (SVG o Fallback)
     if os.path.exists(file_path):
         try:
             with open(file_path, "rb") as f:
                 encoded = base64.b64encode(f.read()).decode()
-                # IMPORTANTE: Tutto su una riga senza spazi iniziali
-                html_visual = f'<div class="glyph-img-container"><img src="data:image/svg+xml;base64,{encoded}" class="glyph-img"></div>'
+                img_html = f'<img src="data:image/svg+xml;base64,{encoded}" class="glyph-img">'
         except:
-            html_visual = "<div style='color:red'>Errore file</div>"
+            img_html = "<span style='color:red'>Errore SVG</span>"
     else:
         # Fallback testuale
-        html_visual = f"<div style='margin: 20px 0; font-style: italic;'>[{glyph['visual']}]</div>"
+        img_html = f"<div style='font-size:2em; font-family:monospace;'>{glyph['visual'][:1]}</div>"
 
-    # Costruzione Card (Usiamo f-string compatta per evitare spazi indesiderati)
-    ombra_html = f'<div style="font-size:0.8em; border-top:1px solid #ccc; padding-top:5px; margin-top:10px; font-style:italic; opacity:0.8;"><b>Ombra:</b> {glyph["shadow"]}</div>' if context == "full" else ""
-
-    card_html = f"""
+    # 2. Costruzione HTML
+    ombra_html = f'<div style="font-size:0.75em; border-top:1px solid #eee; padding-top:8px; margin-top:8px; color:#666;">Ombra: {glyph["shadow"]}</div>' if context == "full" else ""
+    
+    # Nota: glyph-box ora ha max-width nel CSS per evitare l'effetto "enorme"
+    html = f"""
     <div class="glyph-box">
         <div class="glyph-cat">{glyph['cat']}</div>
+        <div class="glyph-img-container">
+            {img_html}
+        </div>
         <div class="glyph-name">{glyph['nome']}</div>
-        {html_visual}
-        <div style="font-weight: bold; margin-bottom: 5px;">{glyph['concetto']}</div>
-        <div style="font-size: 0.9em; opacity: 0.9;">{glyph['desc']}</div>
+        <div style="font-size: 0.85em; line-height: 1.4;">{glyph['concetto']}</div>
         {ombra_html}
     </div>
     """
     
-    # Renderizza interpretando l'HTML
-    st.markdown(card_html, unsafe_allow_html=True)
+    st.markdown(html, unsafe_allow_html=True)
+
 def add_to_history(glyph_list, method):
     timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
     names = ", ".join([g['nome'] for g in glyph_list])
     st.session_state['history'].append({"Data": timestamp, "Metodo": method, "Glifi": names})
 
 # -----------------------------------------------------------------------------
-# 5. LAYOUT APPLICAZIONE
+# 5. LAYOUT APPLICAZIONE E SIDEBAR
 # -----------------------------------------------------------------------------
 st.sidebar.title("SYNKRA")
 menu = st.sidebar.radio("Navigazione", 
-    ["Archivio", "Oracolo", "Risonanza", "Addestramento", "Diario"])
+    ["Introduzione", "Archivio", "Oracolo", "Risonanza", "Addestramento", "Diario"])
 
 st.sidebar.divider()
 st.sidebar.caption("I 25 Specchi dell'Inconscio")
 
+# =============================================================================
+# SEZIONE: INTRODUZIONE (HOME PAGE)
+# =============================================================================
+if menu == "Introduzione":
+    st.title("SYNKRA")
+    st.subheader("I Venticinque Specchi")
+    
+    st.markdown("---")
+    
+    # Colonna unica centrale per il testo manifesto
+    st.markdown("""
+    <div class="hero-text">
+        SYNKRA è un sistema di divinazione psicologica contemporaneo fondato sui principi junghiani 
+        di <b>sincronicità</b> e <b>proiezione archetipica</b>. 
+        <br><br>
+        Nasce con un impegno esplicito all'onestà intellettuale: non rivendica false origini antiche 
+        né si appropria di simbolismi culturali altrui. L'estrazione di un simbolo non è una predizione 
+        soprannaturale, ma uno <b>specchio per l'inconscio</b> che permette di riconoscere dinamiche 
+        interiori altrimenti inaccessibili.
+    </div>
+    """, unsafe_allow_html=True)
+    
+    st.write("")
+    st.subheader("Le Cinque Dimensioni")
+    st.markdown("La struttura del sistema mappa le dimensioni fondamentali dell'esperienza umana:")
+    
+    # Griglia delle categorie
+    c1, c2, c3, c4, c5 = st.columns(5)
+    with c1: st.markdown('<div class="dimension-box">Trasformazione</div>', unsafe_allow_html=True)
+    with c2: st.markdown('<div class="dimension-box">Relazione</div>', unsafe_allow_html=True)
+    with c3: st.markdown('<div class="dimension-box">Movimento</div>', unsafe_allow_html=True)
+    with c4: st.markdown('<div class="dimension-box">Conoscenza</div>', unsafe_allow_html=True)
+    with c5: st.markdown('<div class="dimension-box">Integrazione</div>', unsafe_allow_html=True)
+
+    st.markdown("---")
+    st.info("👈 **Inizia dal Menu Laterale**: Esplora l'**Archivio**, consulta l'**Oracolo** o metti alla prova la tua intuizione nell'**Addestramento**.")
+
+# =============================================================================
+# ALTRE SEZIONI
+# =============================================================================
+
 # --- ARCHIVIO ---
-if menu == "Archivio":
+elif menu == "Archivio":
     st.title("Archivio")
+    st.markdown("La matrice completa dei 25 specchi.")
+    
     search = st.text_input("Cerca glifo", placeholder="Nome, concetto o categoria...")
     
     filtered_glyphs = [g for g in GLYPHS if search.lower() in (g['nome'] + g['concetto'] + g['cat']).lower()]
     
-    # Layout responsivo
-    cols = st.columns(3)
+    # Matrice 5x5
+    columns_num = 5 
+    cols = st.columns(columns_num)
+    
     for i, glyph in enumerate(filtered_glyphs):
-        with cols[i % 3]:
+        with cols[i % columns_num]:
             get_glyph_card(glyph)
 
 # --- ORACOLO ---
@@ -190,12 +269,14 @@ elif menu == "Oracolo":
             res = [random.choice(GLYPHS)]
             st.subheader("Il Focus")
             get_glyph_card(res[0], "full")
+            
         elif "Triade" in method:
             res = random.sample(GLYPHS, 3)
             c1, c2, c3 = st.columns(3)
             with c1: st.caption("Origine"); get_glyph_card(res[0])
             with c2: st.caption("Situazione"); get_glyph_card(res[1])
             with c3: st.caption("Evoluzione"); get_glyph_card(res[2])
+            
         elif "Pentagramma" in method:
             res = random.sample(GLYPHS, 5)
             st.subheader("Mappatura")
@@ -235,19 +316,27 @@ elif menu == "Addestramento":
         
     curr = st.session_state['quiz_mode']['current']
     
-    # Mostra glifo anonimizzato (immagine o visual text)
+    # 1. Recupero Immagine
     fname = f"{curr['nome'].upper()}.svg"
     fpath = os.path.join("assets", "glyphs", fname)
+    
+    img_html_content = ""
     if os.path.exists(fpath):
         with open(fpath, "rb") as f:
             enc = base64.b64encode(f.read()).decode()
-        st.markdown(f"""
-        <div style="background:white; padding:20px; border-radius:10px; width:fit-content; margin:0 auto;">
-            <img src="data:image/svg+xml;base64,{enc}" style="width:100px;">
-        </div>
-        """, unsafe_allow_html=True)
+            img_html_content = f'<img src="data:image/svg+xml;base64,{enc}" class="glyph-img">'
     else:
-        st.info(f"Visual: {curr['visual']}")
+        img_html_content = f"<div style='font-size:2em;'>?</div>"
+
+    # 2. Render Quiz usando le STESSE CLASSI CSS
+    quiz_html = f"""
+    <div style="max-width: 300px; margin: 0 auto;">
+        <div class="glyph-img-container">
+            {img_html_content}
+        </div>
+    </div>
+    """
+    st.markdown(quiz_html, unsafe_allow_html=True)
         
     st.caption(f"Concetto: {curr['concetto']}")
     st.write("---")
