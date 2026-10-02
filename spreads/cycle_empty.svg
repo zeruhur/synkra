@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 580" width="660" height="580">
+<rect width="660" height="580" fill="#fff"/>
+<text x="330.0" y="26" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="2" text-anchor="middle">THE CYCLE</text>
+<rect x="278.0" y="43.0" width="104" height="104" rx="10" fill="#fff" stroke="#888" stroke-width="1.6" stroke-dasharray="6 5"/>
+<text x="330.0" y="104.0" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#999" text-anchor="middle">1</text>
+<text x="330.0" y="167.0" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="middle">Latency</text>
+<text x="330.0" y="183.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#555" text-anchor="middle">the first seed</text>
+<rect x="458.70073809607914" y="174.28677106876" width="104" height="104" rx="10" fill="#fff" stroke="#888" stroke-width="1.6" stroke-dasharray="6 5"/>
+<text x="510.70073809607914" y="235.28677106876" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#999" text-anchor="middle">2</text>
+<text x="510.70073809607914" y="298.28677106876" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="middle">Crisis</text>
+<text x="510.70073809607914" y="314.28677106876" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#555" text-anchor="middle">what breaks open</text>
+<rect x="389.6791979355699" y="386.71322893124" width="104" height="104" rx="10" fill="#fff" stroke="#888" stroke-width="1.6" stroke-dasharray="6 5"/>
+<text x="441.6791979355699" y="447.71322893124" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#999" text-anchor="middle">3</text>
+<text x="441.6791979355699" y="510.71322893124" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="middle">Process</text>
+<text x="441.6791979355699" y="526.71322893124" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#555" text-anchor="middle">the hidden work</text>
+<rect x="166.32080206443013" y="386.71322893124" width="104" height="104" rx="10" fill="#fff" stroke="#888" stroke-width="1.6" stroke-dasharray="6 5"/>
+<text x="218.32080206443013" y="447.71322893124" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#999" text-anchor="middle">4</text>
+<text x="218.32080206443013" y="510.71322893124" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="middle">Manifestation</text>
+<text x="218.32080206443013" y="526.71322893124" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#555" text-anchor="middle">what comes out</text>
+<rect x="97.29926190392081" y="174.28677106876" width="104" height="104" rx="10" fill="#fff" stroke="#888" stroke-width="1.6" stroke-dasharray="6 5"/>
+<text x="149.2992619039208" y="235.28677106876" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#999" text-anchor="middle">5</text>
+<text x="149.2992619039208" y="298.28677106876" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="middle">Completion</text>
+<text x="149.2992619039208" y="314.28677106876" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#555" text-anchor="middle">how it closes</text>
+</svg>

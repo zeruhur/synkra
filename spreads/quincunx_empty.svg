@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 580" width="660" height="580">
+<rect width="660" height="580" fill="#fff"/>
+<text x="330.0" y="26" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="2" text-anchor="middle">QUINCUNX</text>
+<rect x="278.0" y="238.0" width="104" height="104" rx="10" fill="#fff" stroke="#888" stroke-width="1.6" stroke-dasharray="6 5"/>
+<text x="330" y="299" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#999" text-anchor="middle">1</text>
+<text x="330" y="362.0" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="middle">Center</text>
+<text x="330" y="378.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#555" text-anchor="middle">the heart of the matter</text>
+<rect x="278.0" y="48.0" width="104" height="104" rx="10" fill="#fff" stroke="#888" stroke-width="1.6" stroke-dasharray="6 5"/>
+<text x="330" y="109" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#999" text-anchor="middle">2</text>
+<text x="330" y="172.0" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="middle">Above</text>
+<text x="330" y="188.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#555" text-anchor="middle">what you know</text>
+<rect x="278.0" y="428.0" width="104" height="104" rx="10" fill="#fff" stroke="#888" stroke-width="1.6" stroke-dasharray="6 5"/>
+<text x="330" y="489" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#999" text-anchor="middle">3</text>
+<text x="330" y="552.0" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="middle">Below</text>
+<text x="330" y="568.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#555" text-anchor="middle">what remains in shadow</text>
+<rect x="78.0" y="238.0" width="104" height="104" rx="10" fill="#fff" stroke="#888" stroke-width="1.6" stroke-dasharray="6 5"/>
+<text x="130" y="299" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#999" text-anchor="middle">4</text>
+<text x="130" y="362.0" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="middle">Left</text>
+<text x="130" y="378.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#555" text-anchor="middle">what holds you back</text>
+<rect x="478.0" y="238.0" width="104" height="104" rx="10" fill="#fff" stroke="#888" stroke-width="1.6" stroke-dasharray="6 5"/>
+<text x="530" y="299" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#999" text-anchor="middle">5</text>
+<text x="530" y="362.0" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="middle">Right</text>
+<text x="530" y="378.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#555" text-anchor="middle">what draws you forward</text>
+</svg>

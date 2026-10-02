@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 380" width="440" height="380">
+<rect width="440" height="380" fill="#fff"/>
+<text x="220.0" y="26" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="2" text-anchor="middle">TWO PATHS</text>
+<rect x="78.0" y="48.0" width="104" height="104" rx="10" fill="#fff" stroke="#888" stroke-width="1.6" stroke-dasharray="6 5"/>
+<text x="130" y="109" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#999" text-anchor="middle">1</text>
+<text x="130" y="172.0" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="middle">Path A</text>
+<text x="130" y="188.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#555" text-anchor="middle">the first option</text>
+<rect x="258.0" y="48.0" width="104" height="104" rx="10" fill="#fff" stroke="#888" stroke-width="1.6" stroke-dasharray="6 5"/>
+<text x="310" y="109" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#999" text-anchor="middle">2</text>
+<text x="310" y="172.0" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="middle">Path B</text>
+<text x="310" y="188.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#555" text-anchor="middle">the second option</text>
+<rect x="168.0" y="228.0" width="104" height="104" rx="10" fill="#fff" stroke="#888" stroke-width="1.6" stroke-dasharray="6 5"/>
+<text x="220" y="289" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#999" text-anchor="middle">3</text>
+<text x="220" y="352.0" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="middle">Shared ground</text>
+<text x="220" y="368.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#555" text-anchor="middle">what both have in common</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 210" width="780" height="210">
+<rect width="780" height="210" fill="#fff"/>
+<text x="390.0" y="26" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="2" text-anchor="middle">FIVE ROOMS</text>
+<rect x="38.0" y="48.0" width="104" height="104" rx="10" fill="#fff" stroke="#888" stroke-width="1.6" stroke-dasharray="6 5"/>
+<text x="90.0" y="109" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#999" text-anchor="middle">1</text>
+<text x="90.0" y="172.0" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="middle">Transformation</text>
+<text x="90.0" y="188.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#555" text-anchor="middle">row T, roll the phase</text>
+<rect x="188.0" y="48.0" width="104" height="104" rx="10" fill="#fff" stroke="#888" stroke-width="1.6" stroke-dasharray="6 5"/>
+<text x="240.0" y="109" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#999" text-anchor="middle">2</text>
+<text x="240.0" y="172.0" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="middle">Relation</text>
+<text x="240.0" y="188.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#555" text-anchor="middle">row R, roll the phase</text>
+<rect x="338.0" y="48.0" width="104" height="104" rx="10" fill="#fff" stroke="#888" stroke-width="1.6" stroke-dasharray="6 5"/>
+<text x="390.0" y="109" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#999" text-anchor="middle">3</text>
+<text x="390.0" y="172.0" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="middle">Movement</text>
+<text x="390.0" y="188.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#555" text-anchor="middle">row M, roll the phase</text>
+<rect x="488.0" y="48.0" width="104" height="104" rx="10" fill="#fff" stroke="#888" stroke-width="1.6" stroke-dasharray="6 5"/>
+<text x="540.0" y="109" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#999" text-anchor="middle">4</text>
+<text x="540.0" y="172.0" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="middle">Knowledge</text>
+<text x="540.0" y="188.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#555" text-anchor="middle">row K, roll the phase</text>
+<rect x="638.0" y="48.0" width="104" height="104" rx="10" fill="#fff" stroke="#888" stroke-width="1.6" stroke-dasharray="6 5"/>
+<text x="690.0" y="109" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#999" text-anchor="middle">5</text>
+<text x="690.0" y="172.0" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="middle">Integration</text>
+<text x="690.0" y="188.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#555" text-anchor="middle">row I, roll the phase</text>
+</svg>
