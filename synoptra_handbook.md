@@ -60,7 +60,7 @@ The imagery of most traditional tools belongs to a particular time and place. Th
 
 Many traditions also describe the draw as a message from somewhere: fate, the universe, a wise unconscious. That never sat right with me, and I did not want a tool whose instructions asked me to pretend.
 
-And many of these systems are large. Seventy-eight cards, sixty-four hexagrams. Their structure is real and beautiful, but it is old and layered, and a beginner mostly ends up memorizing.
+And many of these systems are large. Seventy-eight cards, sixty-four hexagrams. Their structure is real and beautiful, but it is old and layered, and a beginner mostly ends up memorizing. The I Ching is a partial exception, because its hexagrams are built from simpler figures. SYNOPTRA shares that principle, and Chapter 3 comes back to it.
 
 None of this makes those tools any less valuable. It simply made me want something different for my own practice: something small, clear, contemporary and honest. SYNOPTRA is what grew out of that wish.
 
@@ -144,7 +144,7 @@ If a draw were a message from fate, a disappointing reading would mean a disappo
 
 This is why SYNOPTRA rests on projection and nothing more. Synchronicity remains its inspiration, open to anyone who finds it helpful, but nothing in the method depends on it.
 
-The same spirit runs through the language of this book. You will not find "sacred geometry" here, or a secret lineage, and you will not find other traditions criticized to make this one look better. Where a glyph happens to resemble an older symbol, I simply say so.
+The same spirit runs through the language of this book. You will not find "sacred geometry" here, or a secret lineage, and you will not find other traditions criticized to make this one look better. Where a glyph happens to resemble an older symbol, or the tool as a whole resembles an older system, I simply say so.
 
 ### A grid where every place means something
 
@@ -159,6 +159,16 @@ The five phases come from something we all know about change. It starts as a hid
 Because each column is a phase, the phase can be drawn. So instead of twenty-five unrelated pictures, SYNOPTRA has five basic shapes, one for each dimension, and five small marks, one for each phase. Every glyph is just one shape with one mark.
 
 This has a lovely side effect. No two glyphs can ever be confused, however quickly you sketch them. And glyphs of the same phase share the same mark, so you start to see families across the grid without even trying. You will meet the shapes and marks in Chapter 5.
+
+### A kinship with the I Ching
+
+If you know the I Ching, the last two sections may have sounded familiar. Its sixty-four hexagrams are not sixty-four separate pictures either. Each one is made of two three-line figures, the trigrams, and there are only eight of those. Learn the eight and you can begin to read all sixty-four. SYNOPTRA uses the same principle at a smaller scale: ten elements, twenty-five glyphs.
+
+The two tools also share a subject. The I Ching is the Book of Changes, and the six lines of a hexagram are read from the bottom up as the stages of a situation. The five phases of SYNOPTRA do a similar job. And when you build a glyph with two dice, one for the row and one for the phase, you are doing something close to what a reader of the I Ching does with coins, building a hexagram line by line.
+
+The differences matter just as much. A hexagram joins two figures of the same kind, and what counts is which one sits above the other. A glyph crosses two different things: an area of life and a moment of change. A hexagram can have changing lines that turn it into a second hexagram, so the reading itself moves from one state to another. A glyph stays as it is, and in SYNOPTRA movement comes only from the positions of a spread. Finally, the I Ching speaks. Its text gives judgments and advice. A glyph offers two faces, and you choose between them.
+
+So SYNOPTRA is not a small I Ching, and it borrows none of its texts or its authority. But the kinship is real, and it is fairer to name it than to leave you to notice it alone.
 
 ### Two faces for every glyph
 
