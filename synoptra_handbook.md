@@ -164,11 +164,11 @@ This has a lovely side effect. No two glyphs can ever be confused, however quick
 
 If you know the I Ching, the last two sections may have sounded familiar. Its sixty-four hexagrams are not sixty-four separate pictures either. Each one is made of two three-line figures, the trigrams, and there are only eight of those. Learn the eight and you can begin to read all sixty-four. SYNOPTRA uses the same principle at a smaller scale: ten elements, twenty-five glyphs.
 
-The two tools also share a subject. The I Ching is the Book of Changes, and the six lines of a hexagram are read from the bottom up as the stages of a situation. The five phases of SYNOPTRA do a similar job. And when you build a glyph with two dice, one for the row and one for the phase, you are doing something close to what a reader of the I Ching does with coins, building a hexagram line by line.
+The two tools also share a subject. The I Ching is the Book of Changes, and the six lines of a hexagram are read from the bottom up as the stages of a situation. The five phases of SYNOPTRA do a similar job. And when you build a glyph with two dice, one for the row and one for the phase, you are doing something close to what a reader of the I Ching does with coins, building a hexagram line by line. The slow count described in Chapter 8 is closer still, a cousin of the old method of dividing and counting yarrow stalks.
 
-The differences matter just as much. A hexagram joins two figures of the same kind, and what counts is which one sits above the other. A glyph crosses two different things: an area of life and a moment of change. A hexagram can have changing lines that turn it into a second hexagram, so the reading itself moves from one state to another. A glyph stays as it is, and in SYNOPTRA movement comes only from the positions of a spread. Finally, the I Ching speaks. Its text gives judgments and advice. A glyph offers two faces, and you choose between them.
+The differences matter just as much. A hexagram joins two figures of the same kind, and what counts is which one sits above the other. A glyph crosses two different things: an area of life and a moment of change. A hexagram can have changing lines that turn it into a second hexagram, and that second hexagram is read as where the situation is going. SYNOPTRA borrows this idea openly, as the optional moving glyphs of Chapter 8, but it changes two things: a glyph moves by one of its two parts and not line by line, and the glyph it becomes is a second angle on the question, never a forecast. Finally, the I Ching speaks. Its text gives judgments and advice. A glyph offers two faces, and you choose between them.
 
-So SYNOPTRA is not a small I Ching, and it borrows none of its texts or its authority. But the kinship is real, and it is fairer to name it than to leave you to notice it alone.
+So SYNOPTRA is not a small I Ching, and it takes none of its texts or its authority. But the kinship is real, and it is fairer to name it than to leave you to notice it alone.
 
 ### Two faces for every glyph
 
@@ -864,6 +864,38 @@ The loveliest option is a set of twenty-five **tiles in a small bag**. You reach
 
 If you have no set with you, **two ordinary six-sided dice** will do, the kind found in any board game box. Choose two of different colors if you can: one die gives the row (1 Transformation, 2 Relation, 3 Movement, 4 Knowledge, 5 Integration) and the other gives the phase, from 1 to 5. Whenever a die shows a 6, simply roll that die again. If the glyph has already come up in this reading, roll both again. Rolling this way has a quiet charm of its own, because every throw reminds you that each glyph is a meeting of two directions. And if you are away from home, any **random number app** can pick numbers from 1 to 25 without repeats, if you number the glyphs row by row, from GERMA as 1 to WEVAN as 25.
 
+### Counting by fives
+
+There is one more way to find a glyph. It is the slowest of all, and that is its gift.
+
+You need a heap of small things that are more or less alike: dried beans, grains of rice, pebbles, matchsticks. Sixty or so is plenty. Without counting, take a generous handful from the heap and set it in front of you. Now move the pieces aside five at a time, until five or fewer are left. The number that remains gives the row: one for Transformation, two for Relation, three for Movement, four for Knowledge, five for Integration. Return the handful to the heap, take another, and count again. This time the remainder gives the phase, from one for Latency to five for Completion.
+
+That is the whole method. If the glyph has already come up in this reading, count again. Take a real handful each time, fifteen pieces or more, so that your eye cannot guess the remainder before your fingers find it.
+
+The counting adds nothing to the glyph. What it gives is time. Your hands are busy with something simple, your question stays with you while they work, and the glyph arrives slowly instead of all at once. Because each glyph takes a few minutes, this method suits a single glyph or a Triad better than a Quincunx.
+
+### Moving glyphs
+
+Everything so far gives you **still glyphs**: a glyph comes up, and it stays what it is. The dice and the count can also do something more, if you want it. They can show a glyph in motion. This is entirely optional, and I suggest leaving it aside until the twenty-five glyphs feel familiar.
+
+The idea comes from the I Ching, where some lines of a hexagram are marked as changing and turn the hexagram into a second one. SYNOPTRA does this in its own way. A glyph has two parts, a shape and a mark, and either part can move.
+
+When the **mark** moves, the glyph **ripens**. It keeps its shape and takes the mark of the next phase, one step along the circle: Latency to Crisis, Crisis to Process, and so on, with Completion returning to Latency. THEKNA, the Knot, ripens into SONAL, the Resonance. ASKOR, the Ash, ripens into GERMA, the Seed.
+
+When the **shape** moves, the glyph **migrates**. It keeps its mark and takes the shape of another row: the same moment of change, in a different area of life. QUERIK, the Labyrinth, might migrate into JEKTA, the Leap.
+
+Once in a long while both parts move together, and the glyph **crosses** the grid on a diagonal.
+
+In every case you end up with two glyphs: the **moving glyph** you found first, and the one it turns into, which this book calls its **second mirror**. Chapter 9 explains how to read the pair.
+
+**With the dice**, a 6 is no longer a throw to repeat. It is the sign of movement. If the phase die shows a 6, roll it again until it gives a number from 1 to 5. That is the phase, and the glyph ripens from there. If the row die shows a 6, roll it again for the row, and then once more for the row the glyph migrates to, ignoring any 6 and any repeat of the same row. About three throws in ten give a moving glyph.
+
+**With the count**, divide each handful into two piles before you count, one on the left and one on the right, without trying to make them equal. Count the left pile by fives: its remainder gives the row or the phase, as before. Then count the right pile in the same way. If the two remainders agree, that part moves. When they agree on the phase, the glyph ripens. When they agree on the row, the glyph migrates, and a fresh handful, counted whole, gives the new row. Count once more if it gives the same row. The two hands agree a little more often than a die shows a 6, so a moving glyph comes up slightly more than one time in three.
+
+Tiles and cards always give still glyphs.
+
+One small rule remains. The glyph you find first follows the usual rule: if it is already in the reading, roll or count again. The second mirror does not. It may repeat a glyph that is already on the table, and when it does, make a note of it.
+
 ### Making your own set
 
 Many people love having a set they made themselves, and SYNOPTRA makes it easy. You only need to draw five shapes and five marks, following the tips in Chapter 5. Slices of wood, clay tiles, smooth stones and thick card all work beautifully. Keep the backs plain and alike, and keep the lines thin and dark on a light surface.
@@ -921,6 +953,22 @@ Every glyph has a helpful face and a difficult one. Choosing between them is the
 
 Notice which face you would rather not consider. If you brush the shadow aside quickly, stay with it a moment longer. Resistance is often a sign that something fits. Remember, too, that both faces can be present at once. A root can hold you up and hold you down at the same time, and saying so is a perfectly good reading. Let the position help you: in the Quincunx, a glyph in the place of "what holds you back" leans naturally toward its shadow. And if every glyph seems dark, or every glyph seems bright, pause and ask whether you are reading your situation or simply your mood today.
 
+### When a glyph moves
+
+If you use the moving glyphs from Chapter 8, some of your glyphs will arrive with a second mirror. Read the first glyph completely before you turn to the second: your first reaction, then light or shadow, exactly as if it were still. It is the glyph you found, and it describes where you are standing.
+
+Then look at the second mirror, shape first, and choose its face too.
+
+The second mirror is not a forecast. The I Ching reads its second hexagram as the place a situation is heading. SYNOPTRA makes no such claim, because two dice know no more about your future than one glyph does. The second mirror is another angle on the same question, and the kind of movement tells you which angle.
+
+When a glyph **ripens**, you are looking at the same area of life one step later. *If this moved one step, what would it look like? Is that step already under way, or am I holding it back?*
+
+When a glyph **migrates**, you are looking at the same moment in another area of life. *Where else is this same moment happening for me? Does what I see there explain what I see here?*
+
+When a glyph **crosses**, both questions are open. It is usually enough to follow the one that stirs something.
+
+As with any glyph, the honest answer is sometimes "nothing". A second mirror that does not speak can simply be left where it lies.
+
 ### Seeing the shape of the spread
 
 When you draw three or more glyphs, the grid offers you a second layer of insight that no single glyph can give. Write down their codes and look at the pattern.
@@ -954,6 +1002,8 @@ One glyph, no positions. This is the simplest reading of all, and the best way t
 ![The single glyph spread](spreads/single_empty.png)
 
 Use it with a focused question, such as "What should I pay attention to in today's conversation?", or as a morning companion: "What is stirring in me today?" Look at the shape, write your first reaction, read both faces, and choose. With no grid to look at, give the extra time to the two questions in the glyph's portrait.
+
+A single glyph is also the best place to try the moving glyphs from Chapter 8. A glyph and its second mirror make a small reading of their own.
 
 If you draw one glyph each morning for a month, you will meet most of the twenty-five in the middle of your real life. There is no better way to learn them.
 
@@ -1006,6 +1056,8 @@ Write your new spread and its positions in your journal before you draw, so you 
 ### Writing a reading down
 
 You can record any reading in a single line. With **initials**, in the order you laid the glyphs: `M E H P C` for a Quincunx of MIREN, EMRAL, HULMEN, PARTEN and CYRKEL. Or with **codes**, when you want to see the rows and phases at a glance: `R3 T4 K1 I2 M5`.
+
+Write a moving glyph with its second mirror after an arrow: `T>S` for THEKNA ripening into SONAL, or `R4>R5` in codes.
 
 For your own spreads, choose a fixed order for the positions and always write them in that order.
 
@@ -1271,6 +1323,25 @@ Everything you need at the table, on one page.
 | 3 | M Movement | Process |
 | 4 | K Knowledge | Manifestation |
 | 5 | I Integration | Completion |
-| 6 | Roll again | Roll again |
+| 6 | Roll again (or: the shape moves) | Roll again (or: the mark moves) |
 
 Use two ordinary six-sided dice, ideally of different colors. Roll both again if the glyph has already been drawn.
+
+### Counting by fives
+
+Take a handful from a heap of small objects and remove them five at a time, until five or fewer remain. The first handful gives the row, the second gives the phase, with the same numbers as the dice.
+
+### Moving glyphs (optional)
+
+| Method | Sign that a part moves |
+| :-- | :-- |
+| Dice | The die for that part shows a 6. Roll it again for its value. |
+| Count | Divide the handful in two. The left pile gives the value. The part moves if the right pile leaves the same remainder. |
+
+| Movement | What moves | Second mirror |
+| :-- | :-- | :-- |
+| Ripening | Mark | Same row, next phase. Completion returns to Latency. |
+| Migration | Shape | Same phase, a different row from a new roll or count. |
+| Crossing | Both | Next phase and a different row. |
+
+Read the moving glyph first, then its second mirror. The second mirror is another angle on the question, not a forecast. Write the pair with an arrow: `R4>R5`.
