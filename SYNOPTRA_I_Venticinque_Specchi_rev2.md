@@ -1,8 +1,8 @@
-# SYNKRA: I Venticinque Specchi
+# SYNOPTRA: I Venticinque Specchi
 
 ## Premessa
 
-**SYNKRA: I Venticinque Specchi** è un sistema contemporaneo di riflessione simbolica, ispirato alla psicologia analitica di Carl Gustav Jung. È nato nel 2025. Non dichiara origini antiche e non attribuisce i suoi simboli a nessuna tradizione storica o culturale.
+**SYNOPTRA: I Venticinque Specchi** è un sistema contemporaneo di riflessione simbolica, ispirato alla psicologia analitica di Carl Gustav Jung. È nato nel 2025. Non dichiara origini antiche e non attribuisce i suoi simboli a nessuna tradizione storica o culturale.
 
 Il sistema non è uno strumento di predizione e non è una forma di terapia. È un supporto per l'auto-riflessione.
 
@@ -10,11 +10,11 @@ Il sistema non è uno strumento di predizione e non è una forma di terapia. È 
 
 Il meccanismo su cui si basa il sistema è la **proiezione**: davanti a un simbolo aperto, la persona vi riconosce contenuti che le appartengono e che in altro modo resterebbero impliciti. Il glifo estratto non "sa" nulla della situazione: è la lettura del consultante a dargli significato.
 
-Il concetto junghiano di **sincronicità** (il principio di connessione acausale tra un evento psichico e un evento esterno) è la cornice che ha ispirato il sistema. Il consultante è libero di adottarla come atteggiamento di lettura, ma SYNKRA non la presuppone e non afferma l'esistenza di un legame reale tra l'estrazione e il destino di chi consulta. Il sistema funziona anche su base puramente proiettiva.
+Il concetto junghiano di **sincronicità** (il principio di connessione acausale tra un evento psichico e un evento esterno) è la cornice che ha ispirato il sistema. Il consultante è libero di adottarla come atteggiamento di lettura, ma SYNOPTRA non la presuppone e non afferma l'esistenza di un legame reale tra l'estrazione e il destino di chi consulta. Il sistema funziona anche su base puramente proiettiva.
 
 ## Architettura
 
-SYNKRA è una **matrice 5×5**. Ogni glifo nasce dall'incrocio di due assi:
+SYNOPTRA è una **matrice 5×5**. Ogni glifo nasce dall'incrocio di due assi:
 
 - una **dimensione** (la riga): l'ambito dell'esperienza in cui avviene qualcosa;
 - una **fase** (la colonna): il momento del processo in cui quel qualcosa si trova.
@@ -127,7 +127,7 @@ Ogni glifo ha un **significato**, cioè il suo polo generativo, e un'**ombra**, 
 
 ## Materiale
 
-SYNKRA può usare qualunque supporto che permetta un'estrazione casuale senza reinserimento: 25 tessere identiche in un sacchetto, 25 carte, oppure due dadi a cinque facce (o un d10 diviso per due) per riga e colonna, ripetendo il tiro se il glifo è già uscito.
+SYNOPTRA può usare qualunque supporto che permetta un'estrazione casuale senza reinserimento: 25 tessere identiche in un sacchetto, 25 carte, oppure due dadi a cinque facce (o un d10 diviso per due) per riga e colonna, ripetendo il tiro se il glifo è già uscito.
 
 I glifi non hanno un verso dritto o rovesciato. Luce e ombra di un glifo si leggono in base al contesto e alla posizione, non all'orientamento.
 
@@ -184,4 +184,4 @@ Una lettura si può registrare in due modi. Con le iniziali, nell'ordine centro,
 
 ## Limiti
 
-SYNKRA è uno strumento di auto-riflessione. Non sostituisce il supporto di uno psicologo o di un altro professionista. Se una lettura porta alla luce un disagio persistente, la cosa giusta è parlarne con una persona qualificata.
+SYNOPTRA è uno strumento di auto-riflessione. Non sostituisce il supporto di uno psicologo o di un altro professionista. Se una lettura porta alla luce un disagio persistente, la cosa giusta è parlarne con una persona qualificata.

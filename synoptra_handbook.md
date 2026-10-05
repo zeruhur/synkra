@@ -1,4 +1,4 @@
-# SYNKRA
+# SYNOPTRA
 
 *The 25 Mirrors*
 
@@ -8,23 +8,23 @@ Sep 30, 2026 · @Roberto Bisceglie
 
 Welcome. If you are holding this book, you probably already know the feeling it was written for: something in your life asks for attention, and thinking about it head-on only takes you round the same familiar loop.
 
-SYNKRA is a self-reflection tool, a quiet way to step off that loop. It uses twenty-five simple glyphs, drawn from a small bag or a deck of cards, that you use to look at your situation from an angle you would not find on your own. You ask a question, you draw, you look, and you write down what you notice. Over time, the glyphs become a kind of mirror you can carry with you.
+SYNOPTRA is a self-reflection tool, a quiet way to step off that loop. It uses twenty-five simple glyphs, drawn from a small bag or a deck of cards, that you use to look at your situation from an angle you would not find on your own. You ask a question, you draw, you look, and you write down what you notice. Over time, the glyphs become a kind of mirror you can carry with you.
 
-This book is everything you need to begin. It tells you where SYNKRA comes from and why it is shaped the way it is. It introduces the glyphs one by one, shows you how to prepare and how to read, and walks with you through sample readings and simple exercises. You do not need anything else, and you do not need any experience with other symbolic tools.
+This book is everything you need to begin. It tells you where SYNOPTRA comes from and why it is shaped the way it is. It introduces the glyphs one by one, shows you how to prepare and how to read, and walks with you through sample readings and simple exercises. You do not need anything else, and you do not need any experience with other symbolic tools.
 
 ### Who this book is for
 
-I wrote it for people who already like to pause and reflect: those who keep a journal, who pull a card in the morning, who sit with a question before answering it. If you have used tarot, runes, the I Ching or an oracle deck, much here will feel familiar, and some things will feel refreshingly different. If you have never used anything like this, you are in the right place too. SYNKRA was designed to be easy to learn.
+I wrote it for people who already like to pause and reflect: those who keep a journal, who pull a card in the morning, who sit with a question before answering it. If you have used tarot, runes, the I Ching or an oracle deck, much here will feel familiar, and some things will feel refreshingly different. If you have never used anything like this, you are in the right place too. SYNOPTRA was designed to be easy to learn.
 
-And if you are a little skeptical, that is welcome. SYNKRA asks you to believe nothing. It only asks you to look.
+And if you are a little skeptical, that is welcome. SYNOPTRA asks you to believe nothing. It only asks you to look.
 
-### What SYNKRA will not do
+### What SYNOPTRA will not do
 
-I want to be honest with you from the first page. SYNKRA does not tell the future, and the glyphs do not carry messages from anywhere. When a reading moves you, it is because you saw something true about your own life, with the glyph as the occasion. That is not a smaller thing. In my experience it is the thing that matters.
+I want to be honest with you from the first page. SYNOPTRA does not tell the future, and the glyphs do not carry messages from anywhere. When a reading moves you, it is because you saw something true about your own life, with the glyph as the occasion. That is not a smaller thing. In my experience it is the thing that matters.
 
-SYNKRA is a self-reflection tool, not therapy. It can help you notice what needs care, but it does not replace the people who can give that care. We will come back to this gently at the end of the book.
+SYNOPTRA is a self-reflection tool, not therapy. It can help you notice what needs care, but it does not replace the people who can give that care. We will come back to this gently at the end of the book.
 
-Finally, SYNKRA is new. It was designed in 2025, and it has no ancient lineage or secret origin. I think that is part of its charm: you can see how every piece works, and nothing asks for your faith.
+Finally, SYNOPTRA is new. It was designed in 2025, and it has no ancient lineage or secret origin. I think that is part of its charm: you can see how every piece works, and nothing asks for your faith.
 
 ### How to use this book
 
@@ -36,15 +36,15 @@ If you are eager to start, read Chapter 4, then Chapter 9, then Chapter 11, and 
 
 Some words have a particular sense in this book. A **glyph** is one of the twenty-five symbols. Each glyph belongs to a **dimension**, the area of life it speaks about, and a **phase**, the moment of change it describes. Every glyph has a **meaning**, its helpful side, and a **shadow**, the way the same thing can get in your way. A **spread** is a layout of positions for your glyphs, and to **draw** is to take them at random, one at a time.
 
-The person who asks and reads is called the **consultant**. In SYNKRA there is no reader standing between you and the glyphs. You ask, you look, and you are the one who answers.
+The person who asks and reads is called the **consultant**. In SYNOPTRA there is no reader standing between you and the glyphs. You ask, you look, and you are the one who answers.
 
 # Part One: Background
 
-## Chapter 1: Why SYNKRA Exists
+## Chapter 1: Why SYNOPTRA Exists
 
 Some of the clearest moments in a life arrive sideways. A friend asks a question you did not expect. A line in a novel lands on the wrong day and suddenly means everything. A dream leaves an image you cannot shake. In each case, something that was not made for your problem gives your attention a new place to stand, and from there you see what you half knew all along.
 
-SYNKRA exists to invite those moments on purpose.
+SYNOPTRA exists to invite those moments on purpose.
 
 ### The trouble with thinking straight at things
 
@@ -62,11 +62,11 @@ Many traditions also describe the draw as a message from somewhere: fate, the un
 
 And many of these systems are large. Seventy-eight cards, sixty-four hexagrams. Their structure is real and beautiful, but it is old and layered, and a beginner mostly ends up memorizing.
 
-None of this makes those tools any less valuable. It simply made me want something different for my own practice: something small, clear, contemporary and honest. SYNKRA is what grew out of that wish.
+None of this makes those tools any less valuable. It simply made me want something different for my own practice: something small, clear, contemporary and honest. SYNOPTRA is what grew out of that wish.
 
-### What SYNKRA offers
+### What SYNOPTRA offers
 
-SYNKRA is a self-reflection tool that works through **projection**, our natural habit of seeing ourselves in what we look at. You will meet that idea properly in the next chapter. For now, it is enough to know three things about the tool.
+SYNOPTRA is a self-reflection tool that works through **projection**, our natural habit of seeing ourselves in what we look at. You will meet that idea properly in the next chapter. For now, it is enough to know three things about the tool.
 
 It is **small**. There are twenty-five glyphs, and even the largest spread uses only five.
 
@@ -74,23 +74,23 @@ It is **clear**. The glyphs live in a five by five grid, and each one can be und
 
 It is **honest**. A glyph does not know anything about you. It offers your attention a shape, and you do the rest. Nothing more is claimed, and nothing more is needed.
 
-This also means SYNKRA does not depend on what you believe. If you like to think of the draw as a meaningful coincidence, you can. If you see it as a random prompt, that works just as well. You will follow the same steps, ask the same questions and fill the same pages either way.
+This also means SYNOPTRA does not depend on what you believe. If you like to think of the draw as a meaningful coincidence, you can. If you see it as a random prompt, that works just as well. You will follow the same steps, ask the same questions and fill the same pages either way.
 
 ### About the name
 
-*SYNKRA* echoes the Greek *syn-*, "together", which also opens the word *synchronicity*, the idea from Jung that first set this project in motion. The subtitle, *The 25 Mirrors*, says what the glyphs are for. A mirror adds nothing to what stands in front of it. It simply lets you see what was already there, from an angle you could not reach alone.
+*SYNOPTRA* joins two Greek parts: *syn-*, "together", and *-optron*, "an instrument for seeing", the ending of *katoptron*, the Greek word for a mirror. Put together, the name means "to see together". The same *syn-* also opens the word *synchronicity*, the idea from Jung that first set this project in motion. The subtitle, *The 25 Mirrors*, says what the glyphs are for. A mirror adds nothing to what stands in front of it. It simply lets you see what was already there, from an angle you could not reach alone.
 
 ## Chapter 2: Ideas Borrowed from Jung
 
-SYNKRA owes its first spark to Carl Gustav Jung, the Swiss psychiatrist who took symbols, dreams and even divination seriously as windows into the psyche. Three of his ideas run through this book: **projection**, **the shadow** and **synchronicity**. You do not need to study Jung, or to accept his theories, to use SYNKRA, and I am not a psychologist. But knowing these three ideas will help you understand why the glyphs work the way they do, and how to get the most from them.
+SYNOPTRA owes its first spark to Carl Gustav Jung, the Swiss psychiatrist who took symbols, dreams and even divination seriously as windows into the psyche. Three of his ideas run through this book: **projection**, **the shadow** and **synchronicity**. You do not need to study Jung, or to accept his theories, to use SYNOPTRA, and I am not a psychologist. But knowing these three ideas will help you understand why the glyphs work the way they do, and how to get the most from them.
 
 ### Projection: seeing ourselves in what we see
 
 Have you ever met someone and disliked them at once, before they had done anything at all? Or walked into an empty house and felt that it was sad? Jung called this kind of experience projection: we place something from inside ourselves onto something outside, and then we meet it there as if it had always belonged to the other person or the house.
 
-Projection is not a flaw. It is simply how we perceive when what we look at is open to interpretation. The more ambiguous the object, the more of ourselves we pour into it. Psychologists have long built tests on this idea, showing people inkblots or unclear pictures and listening to what they see. How much those tests can really reveal is still debated, and SYNKRA does not depend on them. It borrows only the simple, everyday observation that an open image invites us to bring something of our own.
+Projection is not a flaw. It is simply how we perceive when what we look at is open to interpretation. The more ambiguous the object, the more of ourselves we pour into it. Psychologists have long built tests on this idea, showing people inkblots or unclear pictures and listening to what they see. How much those tests can really reveal is still debated, and SYNOPTRA does not depend on them. It borrows only the simple, everyday observation that an open image invites us to bring something of our own.
 
-SYNKRA works in the same way, with one important difference: here, **nobody interprets you from outside**. The glyph is the open image, your question focuses your attention, and you are the one who notices what rises. Your first reaction, the memories that surface, the choice you make between the light and dark sides of a glyph: all of that is the reading.
+SYNOPTRA works in the same way, with one important difference: here, **nobody interprets you from outside**. The glyph is the open image, your question focuses your attention, and you are the one who notices what rises. Your first reaction, the memories that surface, the choice you make between the light and dark sides of a glyph: all of that is the reading.
 
 This gives the whole tool its heart: *the glyph knows nothing about your situation; your reading is what gives it meaning.* Everything you will learn in Part Three grows from that simple idea.
 
@@ -98,7 +98,7 @@ This gives the whole tool its heart: *the glyph knows nothing about your situati
 
 For Jung, the shadow is the part of ourselves we do not recognize as ours. It holds the traits and feelings that do not fit the picture we have of who we are. It is not simply our "bad" side. Often it holds strengths we need, waiting behind the door we keep closed.
 
-SYNKRA borrows one gentle lesson from this idea: **any quality can turn into an obstacle**. Steadiness can become stiffness. Openness can become exposure. A bond that holds us can also hold us back. So every glyph has two faces. Its **meaning** is the helpful, generative side. Its **shadow** is the same energy when it blocks or hurts.
+SYNOPTRA borrows one gentle lesson from this idea: **any quality can turn into an obstacle**. Steadiness can become stiffness. Openness can become exposure. A bond that holds us can also hold us back. So every glyph has two faces. Its **meaning** is the helpful, generative side. Its **shadow** is the same energy when it blocks or hurts.
 
 This changes how a reading feels. No glyph is simply good news or bad news. When you draw RADHEN, the Root, the question is never "is this positive?" It is "is this root holding me up, or holding me down?" That question is where much of the real work of a reading happens. Chapter 3 explains why every single glyph, without exception, carries both faces.
 
@@ -106,17 +106,17 @@ This changes how a reading feels. No glyph is simply good news or bad news. When
 
 Jung used the word synchronicity for meaningful coincidences: moments when something inside us and something in the world line up in a way that feels significant, without one causing the other. His best-known story is about a patient describing a dream of a golden scarab, just as a similar beetle tapped against the window. He wrote about the idea at length in 1952, in an essay published alongside a work by the physicist Wolfgang Pauli, and he used it to understand why the I Ching so often seemed to speak to the moment.
 
-Synchronicity is where SYNKRA began. It is in the name, and it is behind the image of a small set of symbols meeting a living question.
+Synchronicity is where SYNOPTRA began. It is in the name, and it is behind the image of a small set of symbols meeting a living question.
 
-It is worth being clear, though, that synchronicity makes a bigger claim than projection does. It suggests a real connection between our inner life and outer events, and there is no scientific evidence for such a link. So SYNKRA does not rest on it. Projection is how the tool works, and it is all the tool needs.
+It is worth being clear, though, that synchronicity makes a bigger claim than projection does. It suggests a real connection between our inner life and outer events, and there is no scientific evidence for such a link. So SYNOPTRA does not rest on it. Projection is how the tool works, and it is all the tool needs.
 
 If you find it meaningful to approach your draws as synchronicities, please do. Taking a draw seriously can help you take your own reflection seriously. If that frame does not suit you, nothing changes. The draw is a random prompt, and randomness is precious exactly because your habits did not choose it.
 
-### What SYNKRA leaves aside
+### What SYNOPTRA leaves aside
 
-Some other parts of Jung's thought often travel with symbolic tools. SYNKRA lets them go, so that the tool stays light.
+Some other parts of Jung's thought often travel with symbolic tools. SYNOPTRA lets them go, so that the tool stays light.
 
-It does not claim that its glyphs are **archetypes**, or that their shapes carry universal meanings. A circle stands for Transformation here because SYNKRA gives it that role, not because circles mean change everywhere. It makes no claim about a **collective unconscious**: everything a reading needs happens between one person and one glyph. And it does not pretend to be **analysis**. Jungian analysis is a relationship with a trained person, and a set of glyphs cannot replace that.
+It does not claim that its glyphs are **archetypes**, or that their shapes carry universal meanings. A circle stands for Transformation here because SYNOPTRA gives it that role, not because circles mean change everywhere. It makes no claim about a **collective unconscious**: everything a reading needs happens between one person and one glyph. And it does not pretend to be **analysis**. Jungian analysis is a relationship with a trained person, and a set of glyphs cannot replace that.
 
 ### A few gentle cautions
 
@@ -126,13 +126,13 @@ We tend to see what we already believe. That is one reason every glyph has a sha
 
 These are not faults to fix. They are part of what it means to look into a mirror. The method in Part Three is designed to keep them gently in view.
 
-## Chapter 3: How SYNKRA Is Shaped
+## Chapter 3: How SYNOPTRA Is Shaped
 
-Every part of SYNKRA was shaped by a handful of choices. You do not need to know them to read the glyphs, but I think you will enjoy the tool more, and use it more freely, once you see why it looks the way it does.
+Every part of SYNOPTRA was shaped by a handful of choices. You do not need to know them to read the glyphs, but I think you will enjoy the tool more, and use it more freely, once you see why it looks the way it does.
 
 ### Four things a mirror should not do
 
-When I set out to build SYNKRA, I made a short list of things I did not want it to do.
+When I set out to build SYNOPTRA, I made a short list of things I did not want it to do.
 
 I did not want it to **promise one thing and do another**, describing itself as a message from beyond while really working as a prompt for reflection. I did not want it to **lean on borrowed mystique**, words like "sacred" or "ancient" that make claims the tool cannot keep. I did not want **symbols that look alike**, so that you would hesitate at the table over which one you had drawn. And I did not want **symbols that are only good or only bad**, because a glyph that can only comfort or only warn has nothing left to show you.
 
@@ -142,7 +142,7 @@ Each of the choices below answers one of those wishes.
 
 If a draw were a message from fate, a disappointing reading would mean a disappointing fate. Since a draw is an invitation to reflect, a reading that does not speak to you is simply an invitation that did not land this time, and that is perfectly fine.
 
-This is why SYNKRA rests on projection and nothing more. Synchronicity remains its inspiration, open to anyone who finds it helpful, but nothing in the method depends on it.
+This is why SYNOPTRA rests on projection and nothing more. Synchronicity remains its inspiration, open to anyone who finds it helpful, but nothing in the method depends on it.
 
 The same spirit runs through the language of this book. You will not find "sacred geometry" here, or a secret lineage, and you will not find other traditions criticized to make this one look better. Where a glyph happens to resemble an older symbol, I simply say so.
 
@@ -150,13 +150,13 @@ The same spirit runs through the language of this book. You will not find "sacre
 
 Twenty-five symbols could have been five groups of five, like five little families. But then nothing would link the first symbol of one family to the first of another, and you would be left memorizing twenty-five separate things.
 
-So SYNKRA uses a true grid with two directions. Each **row** is a dimension, an area of life. Each **column** is a phase, a moment in a process of change. Every glyph sits where a row and a column meet, and that meeting point already tells you much of what it means.
+So SYNOPTRA uses a true grid with two directions. Each **row** is a dimension, an area of life. Each **column** is a phase, a moment in a process of change. Every glyph sits where a row and a column meet, and that meeting point already tells you much of what it means.
 
 The five phases come from something we all know about change. It starts as a hidden possibility. Then something breaks open. Then there is quiet work that nobody sees. Then the new thing comes out into the light. And finally it settles, closes, and becomes the soil for whatever comes next. You can see the whole story in the first row: Seed, Fracture, Chrysalis, Emergence, Ash. Every other row tells the same story in its own part of life, which is why, for example, the last glyph of Movement is **Return**, a journey that closes by coming home.
 
 ### A simple way of drawing
 
-Because each column is a phase, the phase can be drawn. So instead of twenty-five unrelated pictures, SYNKRA has five basic shapes, one for each dimension, and five small marks, one for each phase. Every glyph is just one shape with one mark.
+Because each column is a phase, the phase can be drawn. So instead of twenty-five unrelated pictures, SYNOPTRA has five basic shapes, one for each dimension, and five small marks, one for each phase. Every glyph is just one shape with one mark.
 
 This has a lovely side effect. No two glyphs can ever be confused, however quickly you sketch them. And glyphs of the same phase share the same mark, so you start to see families across the grid without even trying. You will meet the shapes and marks in Chapter 5.
 
@@ -164,7 +164,7 @@ This has a lovely side effect. No two glyphs can ever be confused, however quick
 
 A symbol that is only kind works like a compliment, and one that is only harsh works like a warning. Neither invites you to look a little longer. So every glyph has a meaning and a shadow, a helpful face and a difficult one.
 
-Which face is showing is always your choice, never decided by whether the glyph lands upside down. That is why SYNKRA has no reversed glyphs. The most important judgment in a reading stays where it belongs: with you.
+Which face is showing is always your choice, never decided by whether the glyph lands upside down. That is why SYNOPTRA has no reversed glyphs. The most important judgment in a reading stays where it belongs: with you.
 
 ### Names that are easy to remember
 
@@ -178,7 +178,7 @@ The spreads also have plain names. The five-glyph spread is called the **Quincun
 
 ### Three simple principles
 
-If you ever want to adapt SYNKRA to your own practice, these three principles are a good compass.
+If you ever want to adapt SYNOPTRA to your own practice, these three principles are a good compass.
 
 1. **Promise only what the tool can do.** Every overstatement creates a contradiction somewhere else.
 2. **Let structure carry the weight.** One clear pattern is easier to live with than twenty-five things to memorize.
@@ -186,13 +186,13 @@ If you ever want to adapt SYNKRA to your own practice, these three principles ar
 
 ### One question behind them all
 
-The three principles can be gathered into a single question, and it is the one I ask before adding anything to SYNKRA, whether a new spread, a new rule or a new page in this book: *does this help a person see their situation from a new place, or does it pretend to add knowledge the glyphs do not have?* If it does the first, it belongs. If it does the second, it does not, however beautiful it may be.
+The three principles can be gathered into a single question, and it is the one I ask before adding anything to SYNOPTRA, whether a new spread, a new rule or a new page in this book: *does this help a person see their situation from a new place, or does it pretend to add knowledge the glyphs do not have?* If it does the first, it belongs. If it does the second, it does not, however beautiful it may be.
 
 # Part Two: Fundamentals
 
 ## Chapter 4: The Grid
 
-Every glyph in SYNKRA answers two quiet questions at once. *Where* in your life is something happening? And *at what moment* of its change does it stand? The first answer is the glyph's dimension, its row. The second is its phase, its column. Once you have these ten ideas in your hands, you can find your way toward any glyph, even before you remember its name.
+Every glyph in SYNOPTRA answers two quiet questions at once. *Where* in your life is something happening? And *at what moment* of its change does it stand? The first answer is the glyph's dimension, its row. The second is its phase, its column. Once you have these ten ideas in your hands, you can find your way toward any glyph, even before you remember its name.
 
 Here is the whole grid. Take a moment with it before you read on.
 
@@ -254,7 +254,7 @@ Finally you **interpret**: you bring that direction into your own situation and 
 
 ## Chapter 5: Drawing the Glyphs
 
-Every SYNKRA glyph is made the same way: **the shape of its dimension, with the mark of its phase**. Thin dark lines on a light ground, and nothing more. Five shapes and five marks give you all twenty-five glyphs.
+Every SYNOPTRA glyph is made the same way: **the shape of its dimension, with the mark of its phase**. Thin dark lines on a light ground, and nothing more. Five shapes and five marks give you all twenty-five glyphs.
 
 ### The five shapes
 
@@ -268,7 +268,7 @@ Every SYNKRA glyph is made the same way: **the shape of its dimension, with the 
 
 **Integration is a square.** Four equal sides fitted together: the simplest picture of parts making a steady whole.
 
-These associations are there to help you remember. They are not claims about what these shapes mean everywhere in the world. Within SYNKRA, a triangle stands for Movement because that is its role here, and the reasons simply make the role easy to keep in mind.
+These associations are there to help you remember. They are not claims about what these shapes mean everywhere in the world. Within SYNOPTRA, a triangle stands for Movement because that is its role here, and the reasons simply make the role easy to keep in mind.
 
 ### The five marks
 
@@ -304,7 +304,7 @@ Two shapes take a little practice. For the mandorla, lightly draw two overlappin
 
 With such a small vocabulary of dots, lines, circles and squares, some glyphs inevitably resemble symbols from other traditions. A circle with a dot at its center is also an old sign for the Sun. The mandorla appears in medieval art and in modern geometric design. Squares within squares turn up almost everywhere.
 
-These resemblances are happy accidents of simplicity. Within SYNKRA, GERMA means Seed, not the Sun. If a resemblance stirs an association for you during a reading, welcome it like any other: as something that comes from you, not as a hidden meaning of the glyph.
+These resemblances are happy accidents of simplicity. Within SYNOPTRA, GERMA means Seed, not the Sun. If a resemblance stirs an association for you during a reading, welcome it like any other: as something that comes from you, not as a hidden meaning of the glyph.
 
 ## Chapter 6: Names, Letters and Codes
 
@@ -850,25 +850,25 @@ A good reading begins a little before the draw. You need only three things: a wa
 
 Any set will do, as long as it lets you draw at random **without putting glyphs back**: once a glyph appears, it cannot appear again in the same reading.
 
-The loveliest option is a set of twenty-five **tiles in a small bag**. You reach in without looking and let your fingers choose. The tiles should feel identical from the back, so touch gives nothing away. A deck of twenty-five **cards** works just as well: shuffle, and take from the top. Blank cards with an opaque back are easy to turn into a SYNKRA deck.
+The loveliest option is a set of twenty-five **tiles in a small bag**. You reach in without looking and let your fingers choose. The tiles should feel identical from the back, so touch gives nothing away. A deck of twenty-five **cards** works just as well: shuffle, and take from the top. Blank cards with an opaque back are easy to turn into a SYNOPTRA deck.
 
 If you have no set with you, **two ordinary six-sided dice** will do, the kind found in any board game box. Choose two of different colors if you can: one die gives the row (1 Transformation, 2 Relation, 3 Movement, 4 Knowledge, 5 Integration) and the other gives the phase, from 1 to 5. Whenever a die shows a 6, simply roll that die again. If the glyph has already come up in this reading, roll both again. Rolling this way has a quiet charm of its own, because every throw reminds you that each glyph is a meeting of two directions. And if you are away from home, any **random number app** can pick numbers from 1 to 25 without repeats, if you number the glyphs row by row, from GERMA as 1 to WEVAN as 25.
 
 ### Making your own set
 
-Many people love having a set they made themselves, and SYNKRA makes it easy. You only need to draw five shapes and five marks, following the tips in Chapter 5. Slices of wood, clay tiles, smooth stones and thick card all work beautifully. Keep the backs plain and alike, and keep the lines thin and dark on a light surface.
+Many people love having a set they made themselves, and SYNOPTRA makes it easy. You only need to draw five shapes and five marks, following the tips in Chapter 5. Slices of wood, clay tiles, smooth stones and thick card all work beautifully. Keep the backs plain and alike, and keep the lines thin and dark on a light surface.
 
 A handmade set is not more powerful. It is simply more familiar, and familiarity helps the glyphs become your own.
 
 ### No upside down
 
-SYNKRA glyphs have no reversed position. Several of them look the same either way up, and orientation never decides their meaning. Whether a glyph shows you its light or its shadow is something you decide, guided by your question and by the glyph's place in the spread. This is on purpose: it keeps the heart of the reading in your hands.
+SYNOPTRA glyphs have no reversed position. Several of them look the same either way up, and orientation never decides their meaning. Whether a glyph shows you its light or its shadow is something you decide, guided by your question and by the glyph's place in the spread. This is on purpose: it keeps the heart of the reading in your hands.
 
 ### Finding your question
 
 Your question is the lens through which you will see every glyph. A clear, open question can make even a single glyph speak; a closed one can silence a whole spread.
 
-**Ask open questions.** SYNKRA cannot answer yes or no, and it cannot tell you what will happen. What it does beautifully is help you see a situation from new sides. Good questions often begin with *what* or *how*. Instead of asking "Will I get the job?", you might ask "What do I need to understand about this job search?" Instead of "Does she love me?", try "What is happening between us right now?" Instead of "Should I move to Berlin?", ask "What is drawing me toward this move, and what is holding me back?"
+**Ask open questions.** SYNOPTRA cannot answer yes or no, and it cannot tell you what will happen. What it does beautifully is help you see a situation from new sides. Good questions often begin with *what* or *how*. Instead of asking "Will I get the job?", you might ask "What do I need to understand about this job search?" Instead of "Does she love me?", try "What is happening between us right now?" Instead of "Should I move to Berlin?", ask "What is drawing me toward this move, and what is holding me back?"
 
 **Ask about yourself.** You can ask about a relationship or a group, but the reading always speaks to your side of it: what you see, what you feel, what you can do. The glyphs cannot read another person's mind, and they should never be used to guess at it.
 
@@ -888,7 +888,7 @@ There are a few moments when it is better not to read. When a decision has to be
 
 ## Chapter 9: How to Read
 
-Every SYNKRA reading, whatever the spread, follows the same gentle rhythm. You look before you look anything up. You weigh both faces of a glyph before you choose. And you take in the whole picture before you trace the threads between the glyphs.
+Every SYNOPTRA reading, whatever the spread, follows the same gentle rhythm. You look before you look anything up. You weigh both faces of a glyph before you choose. And you take in the whole picture before you trace the threads between the glyphs.
 
 1. **Find your question**, open and clear, and write it down.
 2. **Draw your glyphs** and lay them in the positions of your spread, without checking their meanings yet.
@@ -901,7 +901,7 @@ Let us walk through the steps that ask for a little more care.
 
 ### Your first reaction
 
-This is the step people are most tempted to skip, and it is the one that makes SYNKRA a mirror rather than a dictionary. Before you think "that is EMRAL, the Emergence", simply look at the drawing. What does it make you feel? What does it remind you of? A line breaking out of a circle might suggest an escape, a birth, a flash of anger, a flower opening. Write it down in a few words, however strange it seems.
+This is the step people are most tempted to skip, and it is the one that makes SYNOPTRA a mirror rather than a dictionary. Before you think "that is EMRAL, the Emergence", simply look at the drawing. What does it make you feel? What does it remind you of? A line breaking out of a circle might suggest an escape, a birth, a flash of anger, a flower opening. Write it down in a few words, however strange it seems.
 
 That first reaction matters because it comes before the book can steer you. Very often, the most useful moment of a reading lives in the gap between what you first saw and what the glyph is "supposed" to mean.
 
@@ -935,7 +935,7 @@ Close with one small, concrete step: something to notice, to ask, or to do in th
 
 ## Chapter 10: The Spreads
 
-SYNKRA has three spreads to start with: one glyph, three glyphs and five. And it has one simple rule for inventing your own: every position must have its meaning decided before you draw.
+SYNOPTRA has three spreads to start with: one glyph, three glyphs and five. And it has one simple rule for inventing your own: every position must have its meaning decided before you draw.
 
 ### A single glyph
 
@@ -1085,7 +1085,7 @@ This is a perfectly good reading. A glyph is an invitation, and some invitations
 
 ## Chapter 12: Living with the Glyphs
 
-You come to know SYNKRA the way you come to know a friend: by spending time together. This chapter offers a few simple exercises for your first weeks, and a gentle way of keeping a reading journal so that your readings grow into something larger over time.
+You come to know SYNOPTRA the way you come to know a friend: by spending time together. This chapter offers a few simple exercises for your first weeks, and a gentle way of keeping a reading journal so that your readings grow into something larger over time.
 
 ### Six exercises for the first weeks
 
@@ -1142,21 +1142,21 @@ And look for **questions that keep coming back**. When the same question appears
 
 ### Reading with a friend
 
-SYNKRA is made for quiet, solitary use, but it can be lovely to practice with someone you trust. Each of you draws for your own question and reads aloud. The one listening offers only open questions, such as "What else could that shadow be?", and never an interpretation. This one rule protects the heart of the practice: a reading always belongs to the person who asked.
+SYNOPTRA is made for quiet, solitary use, but it can be lovely to practice with someone you trust. Each of you draws for your own question and reads aloud. The one listening offers only open questions, such as "What else could that shadow be?", and never an interpretation. This one rule protects the heart of the practice: a reading always belongs to the person who asked.
 
 # Part Four: Boundaries
 
-## Chapter 13: Using SYNKRA with Care
+## Chapter 13: Using SYNOPTRA with Care
 
-We are near the end of our time together, and I want to close with a few honest words. SYNKRA is a self-reflection tool, and like any tool it is only as good as the care with which it is used.
+We are near the end of our time together, and I want to close with a few honest words. SYNOPTRA is a self-reflection tool, and like any tool it is only as good as the care with which it is used.
 
 ### What the glyphs cannot do
 
-The glyphs **cannot tell the future**. Even the "tendency" in the Time Triad describes the direction of the present, not what will happen. They **cannot know another person**: a reading about a relationship speaks only to your side of it, never to what someone else thinks, feels or intends. They **cannot replace facts**. Questions of health, money, law and safety need real information and real professionals. A reading can help you notice how you feel about such a decision, but it cannot make the decision for you. And they **cannot heal**. SYNKRA can support reflection, but it does not treat anxiety, depression, grief, trauma or any other pain that needs care.
+The glyphs **cannot tell the future**. Even the "tendency" in the Time Triad describes the direction of the present, not what will happen. They **cannot know another person**: a reading about a relationship speaks only to your side of it, never to what someone else thinks, feels or intends. They **cannot replace facts**. Questions of health, money, law and safety need real information and real professionals. A reading can help you notice how you feel about such a decision, but it cannot make the decision for you. And they **cannot heal**. SYNOPTRA can support reflection, but it does not treat anxiety, depression, grief, trauma or any other pain that needs care.
 
 ### When to reach out
 
-Sometimes a reading touches something tender: a distress that does not fade, or a weight you have been carrying alone for a long time. When that happens, the kindest next step is not another reading. It is to talk with someone: a person you trust and, if the difficulty stays with you, a psychologist or another qualified professional. SYNKRA can help you notice that something needs attention. It should never be the place where that attention ends.
+Sometimes a reading touches something tender: a distress that does not fade, or a weight you have been carrying alone for a long time. When that happens, the kindest next step is not another reading. It is to talk with someone: a person you trust and, if the difficulty stays with you, a psychologist or another qualified professional. SYNOPTRA can help you notice that something needs attention. It should never be the place where that attention ends.
 
 ### Habits to gently avoid
 
@@ -1174,11 +1174,11 @@ A few habits can quietly turn a mirror into something else. Most of us fall into
 
 ### Reading for someone else
 
-If a friend asks you to read for them, you can be a wonderful guide. Show them the grid, read the portraits aloud, ask open questions, keep them company. But try not to tell them what their glyphs mean for their life. That would place you in the very role SYNKRA leaves empty on purpose: an interpreter standing between a person and their own reflection. The best gift you can offer is a good question.
+If a friend asks you to read for them, you can be a wonderful guide. Show them the grid, read the portraits aloud, ask open questions, keep them company. But try not to tell them what their glyphs mean for their life. That would place you in the very role SYNOPTRA leaves empty on purpose: an interpreter standing between a person and their own reflection. The best gift you can offer is a good question.
 
 ### A last word
 
-Everything in this book comes back to one simple idea. A symbol helps because it gives your attention a new place to stand. It stops helping when it pretends to be more than that. If you keep SYNKRA small, honest and in your own hands, it will go on showing you what you already half know. That is all a mirror can do, and it is a great deal.
+Everything in this book comes back to one simple idea. A symbol helps because it gives your attention a new place to stand. It stops helping when it pretends to be more than that. If you keep SYNOPTRA small, honest and in your own hands, it will go on showing you what you already half know. That is all a mirror can do, and it is a great deal.
 
 I hope your glyphs serve you well.
 

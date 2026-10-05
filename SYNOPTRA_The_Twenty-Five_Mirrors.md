@@ -1,8 +1,8 @@
-# SYNKRA: The Twenty-Five Mirrors
+# SYNOPTRA: The Twenty-Five Mirrors
 
 ## Premise
 
-**SYNKRA: The Twenty-Five Mirrors** is a contemporary system of symbolic reflection, inspired by the analytical psychology of Carl Gustav Jung. It was created in 2025. It claims no ancient origins and does not attribute its symbols to any historical or cultural tradition.
+**SYNOPTRA: The Twenty-Five Mirrors** is a contemporary system of symbolic reflection, inspired by the analytical psychology of Carl Gustav Jung. It was created in 2025. It claims no ancient origins and does not attribute its symbols to any historical or cultural tradition.
 
 The system is not a tool for prediction and it is not a form of therapy. It is an aid to self-reflection.
 
@@ -10,11 +10,11 @@ The system is not a tool for prediction and it is not a form of therapy. It is a
 
 The mechanism the system relies on is **projection**: faced with an open symbol, a person recognizes in it contents that belong to them and that would otherwise stay implicit. The drawn glyph "knows" nothing about the situation: it is the consultant's reading that gives it meaning.
 
-Jung's concept of **synchronicity** (the principle of acausal connection between a psychic event and an external event) is the frame that inspired the system. Consultants are free to adopt it as a reading attitude, but SYNKRA does not presuppose it and does not claim any real link between the draw and the consultant's fate. The system works on a purely projective basis as well.
+Jung's concept of **synchronicity** (the principle of acausal connection between a psychic event and an external event) is the frame that inspired the system. Consultants are free to adopt it as a reading attitude, but SYNOPTRA does not presuppose it and does not claim any real link between the draw and the consultant's fate. The system works on a purely projective basis as well.
 
 ## Architecture
 
-SYNKRA is a **5×5 matrix**. Each glyph sits at the crossing of two axes:
+SYNOPTRA is a **5×5 matrix**. Each glyph sits at the crossing of two axes:
 
 - a **dimension** (the row): the area of experience in which something happens;
 - a **phase** (the column): the point in the process where that something stands.
@@ -127,7 +127,7 @@ Each glyph has a **meaning**, its generative pole, and a **shadow**, the way the
 
 ## Materials
 
-SYNKRA can use any medium that allows a random draw without replacement: 25 identical tiles in a bag, 25 cards, or two five-sided dice (or a d10 halved) for row and column, rerolling if the glyph has already come up.
+SYNOPTRA can use any medium that allows a random draw without replacement: 25 identical tiles in a bag, 25 cards, or two five-sided dice (or a d10 halved) for row and column, rerolling if the glyph has already come up.
 
 Glyphs have no upright or reversed orientation. The light and shadow of a glyph are read from context and position, not from orientation.
 
@@ -184,4 +184,4 @@ A reading can be recorded in two ways. With initials, in the order center, top, 
 
 ## Limits
 
-SYNKRA is a tool for self-reflection. It does not replace the support of a psychologist or other professional. If a reading brings up persistent distress, the right step is to talk about it with a qualified person.
+SYNOPTRA is a tool for self-reflection. It does not replace the support of a psychologist or other professional. If a reading brings up persistent distress, the right step is to talk about it with a qualified person.

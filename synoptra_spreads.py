@@ -1,7 +1,7 @@
-"""Draws SYNKRA spread diagrams, empty and filled, reusing the glyph grammar."""
+"""Draws SYNOPTRA spread diagrams, empty and filled, reusing the glyph grammar."""
 import math, os
 import cairosvg
-from synkra_glyphs import glyph_elements, GROUP, MATRIX
+from synoptra_glyphs import glyph_elements, GROUP, MATRIX
 
 CONCEPT = {
     "T": ["Seed", "Fracture", "Chrysalis", "Emergence", "Ash"],
