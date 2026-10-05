@@ -102,15 +102,23 @@ SYNOPTRA borrows one gentle lesson from this idea: **any quality can turn into a
 
 This changes how a reading feels. No glyph is simply good news or bad news. When you draw RADHEN, the Root, the question is never "is this positive?" It is "is this root holding me up, or holding me down?" That question is where much of the real work of a reading happens. Chapter 3 explains why every single glyph, without exception, carries both faces.
 
-### Synchronicity: the inspiration
+### Synchronicity: what a reading feels like
 
 Jung used the word synchronicity for meaningful coincidences: moments when something inside us and something in the world line up in a way that feels significant, without one causing the other. His best-known story is about a patient describing a dream of a golden scarab, just as a similar beetle tapped against the window. He wrote about the idea at length in 1952, in an essay published alongside a work by the physicist Wolfgang Pauli, and he used it to understand why the I Ching so often seemed to speak to the moment.
 
 Synchronicity is where SYNOPTRA began. It is in the name, and it is behind the image of a small set of symbols meeting a living question.
 
-It is worth being clear, though, that synchronicity makes a bigger claim than projection does. It suggests a real connection between our inner life and outer events, and there is no scientific evidence for such a link. So SYNOPTRA does not rest on it. Projection is how the tool works, and it is all the tool needs.
+The word holds two things, and it helps to take them apart.
 
-If you find it meaningful to approach your draws as synchronicities, please do. Taking a draw seriously can help you take your own reflection seriously. If that frame does not suit you, nothing changes. The draw is a random prompt, and randomness is precious exactly because your habits did not choose it.
+The first is a **claim**: that our inner life and outer events are really connected, in some way that is not cause and effect. Jung meant this seriously. There is no scientific evidence for such a link, and SYNOPTRA does not rest on it.
+
+The second is an **experience**: a coincidence that feels meaningful. Nobody has to prove that this happens, because everybody has lived it. It is also exactly what a good reading feels like. You ask about your brother, and the glyph on the table is the Mirror.
+
+So projection and synchronicity are not two rival explanations, one to keep and one to set aside. They describe the same event from two sides. Projection is how a reading works, seen from outside. Synchronicity is what a reading is like, seen from inside. This book takes the experience fully and leaves the claim to you.
+
+The I Ching adds one thought that is worth keeping: a cast belongs to its moment. SYNOPTRA can say the same without asking anything of chance. The glyph is random, but you are not. You come to the table on a certain day, with a certain question, after a certain conversation, and the same glyph tomorrow would meet a different person. The moment is the one part of a reading that chance does not choose. That is why this book asks you to write down the date and, in Chapter 12, a line about the moment itself.
+
+If you find it meaningful to go further, and to approach your draws as synchronicities in Jung's full sense, please do. Taking a draw seriously can help you take your own reflection seriously. If that frame does not suit you, nothing changes. The draw is a random prompt, and randomness is precious exactly because your habits did not choose it.
 
 ### What SYNOPTRA leaves aside
 
@@ -123,6 +131,8 @@ It does not claim that its glyphs are **archetypes**, or that their shapes carry
 Projection is a wonderful tool, and like every tool it has its habits. Knowing them will make you a better reader.
 
 We tend to see what we already believe. That is one reason every glyph has a shadow: when a reading simply agrees with you, try the other face and see whether it fits better. Vague descriptions also feel personal to almost anyone, a well-known effect that psychologists study. The remedy is to make your reading specific: name the person, the moment, the choice. And our mood colors what we see. A reading done on a hard day tends to find hard things. That is no reason to avoid reading when life is difficult, but it is a good reason to read your notes again later, on a calmer day.
+
+The same habits are at work whenever a coincidence feels meaningful. We remember the glyph that matched the day and forget the ten that did not. That does not make the feeling false. It only means that an honest journal records both.
 
 These are not faults to fix. They are part of what it means to look into a mirror. The method in Part Three is designed to keep them gently in view.
 
@@ -142,7 +152,7 @@ Each of the choices below answers one of those wishes.
 
 If a draw were a message from fate, a disappointing reading would mean a disappointing fate. Since a draw is an invitation to reflect, a reading that does not speak to you is simply an invitation that did not land this time, and that is perfectly fine.
 
-This is why SYNOPTRA rests on projection and nothing more. Synchronicity remains its inspiration, open to anyone who finds it helpful, but nothing in the method depends on it.
+This is why the method of SYNOPTRA rests on projection and nothing more. Synchronicity is the name for what a reading feels like when it lands, and this book welcomes that experience. But nothing in the method depends on the larger claim behind the word.
 
 The same spirit runs through the language of this book. You will not find "sacred geometry" here, or a secret lineage, and you will not find other traditions criticized to make this one look better. Where a glyph happens to resemble an older symbol, or the tool as a whole resembles an older system, I simply say so.
 
@@ -916,7 +926,7 @@ Your question is the lens through which you will see every glyph. A clear, open 
 
 **Keep it to one thing.** A question about your whole life gives the glyphs too much room. Choose one situation, one decision, or one relationship.
 
-**Write it down.** Before you draw, write your question at the top of a fresh page, with the date. Later, when you come back to your notes, you will be glad you did.
+**Write it down.** Before you draw, write your question at the top of a fresh page, with the date and a line about the moment: where you are, and what has just happened. Later, when you come back to your notes, you will be glad you did.
 
 ### Making a little space
 
@@ -1164,12 +1174,13 @@ Take them in order, one or two a week. Each one needs only ten or twenty minutes
 
 A reading that is not written down tends to fade as quickly as a mood. A reading on paper can be revisited, compared with others, and held up against what really happened. Your journal is what turns single readings into real self-knowledge.
 
-Use whatever you will actually keep: a paper notebook, a file on your phone. What matters is that each entry follows the same simple pattern, so that you can find your way back. Start with the date, the spread and your question. Write the glyphs in short form. Note your first reactions, a line about the shape of the spread, which face each glyph showed, your gathering sentence, and your small step. Then leave one empty line at the bottom, for later.
+Use whatever you will actually keep: a paper notebook, a file on your phone. What matters is that each entry follows the same simple pattern, so that you can find your way back. Start with the date, the spread and your question. Add a line about the moment: where you are, what happened just before, what is on your mind. Write the glyphs in short form. Note your first reactions, a line about the shape of the spread, which face each glyph showed, your gathering sentence, and your small step. Then leave one empty line at the bottom, for later.
 
 An entry might look like this:
 
 ```markdown
 2026-10-04 | Quincunx | What is happening in me around this move?
+Moment: evening, just after the call with the landlord.
 M E H P C   (R3 T4 K1 I2 M5)
 
 First reactions:
@@ -1188,7 +1199,7 @@ Looking back (+2 weeks):
 
 ### Looking back
 
-Two weeks after a reading, or whenever the situation has moved on, return to that empty line and fill it in. Ask yourself what in the reading turned out to matter, what you missed or misread, and whether you took your small step, and what happened if you did.
+Two weeks after a reading, or whenever the situation has moved on, return to that empty line and fill it in. Ask yourself what in the reading turned out to matter, what you missed or misread, and whether you took your small step, and what happened if you did. Read your line about the moment again as well. If something in the reading met that moment in a way that struck you, say so. If nothing did, say that too.
 
 This is the most honest part of the practice, and often the most rewarding. Little by little, it shows you your own habits as a reader: the shadows you never choose, the rows you always lean on, the steps you somehow never take. Those patterns can tell you more than any single reading.
 
@@ -1199,6 +1210,8 @@ Every few months, sit down with all your readings and look at them together.
 Notice which rows and phases you **write about** most. The draw itself spreads them fairly evenly over time, so if your notes keep returning to the same areas, that tells you where your attention naturally goes.
 
 Look for **glyphs you always read the same way**. A glyph that is always shadow for you, or always light, may be one you have stopped really seeing. The next time it comes up, try the other face first.
+
+Look for **glyphs that return**. With only twenty-five glyphs, repeats are certain to happen by chance, so a glyph that comes back proves nothing. It is still a fair invitation: read the entries where it appeared side by side, with their moments, and see whether they have something in common.
 
 And look for **questions that keep coming back**. When the same question appears again and again, the question itself may be the message. Ask what keeps it open.
 
@@ -1224,7 +1237,7 @@ Sometimes a reading touches something tender: a distress that does not fade, or 
 
 A few habits can quietly turn a mirror into something else. Most of us fall into them now and then, so there is no need for guilt, only a little awareness.
 
-**Drawing again until the answer feels right** turns a tool for seeing into a tool for being reassured. Try one reading per question, and if you disagree with it, write down why. That disagreement is often the real reading.
+**Drawing again until the answer feels right** turns a tool for seeing into a tool for being reassured. Try one reading per question, and if you disagree with it, write down why. That disagreement is often the real reading. The I Ching says as much in one of its own texts: the oracle answers the first time, and to ask again and again is to pester it. A reading belongs to its moment, and the moment comes once.
 
 **Reading many times a day on the same worry** tends to feed the worry rather than understand it. Read once, then take your small step and let the question rest.
 
@@ -1298,7 +1311,7 @@ Everything you need at the table, on one page.
 
 ### The procedure
 
-1. Find an open question and write it down.
+1. Find an open question and write it down, with the date and a line about the moment.
 2. Draw your glyphs and lay them in their positions.
 3. Look at each shape and write your first reaction.
 4. Weigh light and shadow.
